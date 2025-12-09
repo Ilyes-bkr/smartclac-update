@@ -1,8 +1,8 @@
 {
-  "ispromo":"true";
-  "message":"join the telegram plz";
-  "link":"https://smartcalcplus.vercel.app";
-  "title":"promo";
-  "logo_url":"https://smartcalcplus.vercel.app/icons/smartcalc-logo-512.png";
-  "show_join_button":"";
+  "ispromo":"true",
+  "message":"join the telegram plz",
+  "link":"https://smartcalcplus.vercel.app",
+  "title":"promo",
+  "logo_url":"https://smartcalcplus.vercel.app/icons/smartcalc-logo-512.png",
+  "show_join_button":"true"
 }
