@@ -1,8 +1,8 @@
 {
-  "promo":false,
-  "message":"join the telegram plz",
-  "link":"https://smartcalcplus.vercel.app",
-  "title":"promo",
-  "logo_url":"https://raw.githubusercontent.com/Ilyes-bkr/smartclac-update/refs/heads/main/smartcalc.png",
+  "promo":true,
+  "message":"We're now making PFE reports click here for more info",
+  "link":"https://www.instagram.com/t04yeb?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  "title":"PFE",
+  "logo_url":"https://cdn.jsdelivr.net/gh/Ilyes-bkr/smartclac-update/smartcalc.png",
   "show_join_button":true
 }
